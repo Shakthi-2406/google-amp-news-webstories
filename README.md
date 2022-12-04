@@ -1,10 +1,12 @@
 # amp-news-updater
+
+Due to security reasons source codes are moved to private repository. Kindly do contact me for source codes.
+</br>
 => A responsive website which will automatically fetch hot news from rss feeds of different popular news sites for different categories by asynchronous tasks using apscheduler periodically using webscraping libraries. </br>
 => Then it will download appropriate images from Google and upload them with dynamic styles in the format of Google amp web stories. </br>
 => Deployed using apache and got over 9k clicks tracked by Google.
 
 
-#Due to security reasons source codes are moved to private repository. Kindly do contact me for source codes.
 </hr></br>
 <h3>When it was deployed, here are the google analytics results for Google webstories posted by this site within few days of deployment.</h3>
 </br> 
